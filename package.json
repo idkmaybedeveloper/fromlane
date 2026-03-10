@@ -1,5 +1,5 @@
 {
-  "name": "fromlane",
+  "name": "@idkmaybedeveloper/fromlane",
   "version": "1.0.0",
   "description": "lane music service API client and downloader",
   "main": "index.js",
