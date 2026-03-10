@@ -1,0 +1,27 @@
+{
+  "name": "fromlane",
+  "version": "1.0.0",
+  "description": "lane music service API client and downloader",
+  "main": "index.js",
+  "scripts": {
+    "search": "tsx src/cli/search.ts",
+    "download": "tsx src/cli/download.ts",
+    "info": "tsx src/cli/info.ts",
+    "artist": "tsx src/cli/artist.ts",
+    "stream": "tsx src/cli/stream.ts",
+    "build": "tsc"
+  },
+  "keywords": [
+    "lane",
+    "music",
+    "downloader"
+  ],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.30.3",
+  "devDependencies": {
+    "@types/node": "^22.19.15",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}

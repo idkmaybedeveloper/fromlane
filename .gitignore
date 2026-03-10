@@ -1,0 +1,7 @@
+.idea
+node_modules/
+dist/
+downloads/
+*.mp3
+*.m4a
+.env
