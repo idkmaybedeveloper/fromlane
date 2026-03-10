@@ -11,6 +11,9 @@
     "stream": "tsx src/cli/stream.ts",
     "build": "tsc"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "keywords": [
     "lane",
     "music",
